@@ -1,7 +1,7 @@
 # sheepTSexample
 
 ## Setup
-1. (Ooptional) To run the simulation script, you need to set up [scrm](https://scrm.github.io/)
+1. (Optional) To run the simulation script, you need to set up [scrm](https://scrm.github.io/)
 2. For the simulation script and data analysis, you need an environment with tsinfer and numpy, e.g. `conda create -n tsinfer -conda-forge tsinfer numpy ipython`
 
 ## Data
