@@ -58,7 +58,7 @@ ts.genealogical_nearest_neighbours(range(10), [range(10),range(10, 110), range(1
 >        [0.65187813, 0.32764667, 0.0204752 ],
 >        [0.46132971, 0.48903879, 0.0496315 ],
 >        [0.60860476, 0.35239091, 0.03900433]])
-# The columns are mouflon, Irania, Border
+# The columns are mouflon, Iranian, Border
 # The rows correspond to the mouflon genomes
 # Mouflon genomes are most similar to mouflon, also simlar to Iranian, but very different to Border
 # This is useful when there are unlabelled samples
