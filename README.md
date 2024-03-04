@@ -1,5 +1,9 @@
 # sheepTSexample
 
+## Course Schedule (liable to change)
+![image](https://github.com/HighlanderLab/sheepTSexample/assets/10515056/f4439e5a-aa05-4af3-9aec-3b7157f19c39)
+
+
 ## Setup
 1. (Optional) To run the simulation script, you need to set up [scrm](https://scrm.github.io/)
 2. For the simulation script and data analysis, you need an environment with tsinfer and numpy, e.g. `conda create -n tsinfer -conda-forge tsinfer numpy ipython`
