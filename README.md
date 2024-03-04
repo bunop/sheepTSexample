@@ -1,7 +1,8 @@
 # sheepTSexample
 
 ## Course Schedule (liable to change)
-![image](https://github.com/HighlanderLab/sheepTSexample/assets/10515056/f4439e5a-aa05-4af3-9aec-3b7157f19c39)
+![image](https://github.com/HighlanderLab/sheepTSexample/assets/10515056/33eaa85f-d65d-4d59-8ca3-8ce6b4413847)
+
 
 
 ## Setup
